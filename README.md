@@ -6,7 +6,12 @@
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/ravi-ramani-65a12017b/" target="blank"><img
             align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="https://www.linkedin.com/in/ravi-ramani-65a12017b/" height="30" width="40" /></a>
+            alt="https://www.linkedin.com/in/ravi-ramani-65a12017b/" height="30" width="40" />
+    </a>
+    <a href="https://ravi-ramani.netlify.app/" target="blank"><i class="fa-sharp fa-regular fa-globe-pointer"></i><img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="https://ravi-ramani.netlify.app/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
