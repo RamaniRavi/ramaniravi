@@ -30,4 +30,10 @@
 
 - 🥇 **Hackathon 2023 & Hackathon 2024**
 - 🎉 Volunteered and organized technical and non-technical events at Converse 2K20, SCET.
-- 📜 **Udemy Certificate:** --
+- 📜 **Udemy Certificate:**
+  - [Build an app with ASP.NET Core and Angular from scratch](https://udemy-certificate.s3.amazonaws.com/image/UC-029737ae-dd7c-4395-83d8-889332cc4bc2.jpg)
+  - [Angular - The Complete Guide (2024 Edition)](https://udemy-certificate.s3.amazonaws.com/image/UC-92a68b3c-2e87-46a6-a63d-2341e119b007.jpg)
+  - [The Ultimate Bootstrap Guide - Bootstrap 5 from Scratch](https://udemy-certificate.s3.amazonaws.com/image/UC-dee39bd9-c444-445e-9c66-1f8a901c3f9b.jpg)
+  - [Complete C# Masterclass](https://udemy-certificate.s3.amazonaws.com/image/UC-4152b63d-7793-4902-98f3-acea229b8b3e.jpg)
+  - [.NET Core MVC - The Complete Guide 2024 [E-commerce] [.NET8]](https://udemy-certificate.s3.amazonaws.com/image/UC-6a7f72b2-b663-4e5a-a7da-a62b3c0cb02c.jpg)
+  - [Unit Testing for C# Developers](https://udemy-certificate.s3.amazonaws.com/image/UC-ae42c993-b0c3-48cb-9f42-721a0f26a10b.jpg)
